@@ -40,7 +40,7 @@
 	    		<img height="50" class="d-absolute left-0"  src="{{asset('/img/p1.png')}}">
 	    		<img height="300" class="d-absolute"  src="{{asset('/img/s1-2.png')}}">
 	    		<img height="50" class="d-absolute right-0"  src="{{asset('/img/s2-2.png')}}">
-	    		Let your engineers <br> build the backend!
+	    		You can apply PAN card in  <br>3 easy step!
 	    	</div>
 
 	    	<div class="radmin-bannner text-center">
