@@ -3,7 +3,7 @@
     <head> 
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Radmin - Laravel Admin Starter</title>
+        <title>Pan Apply - Easy apply pan card in 3 step</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,8 +32,8 @@
 		            </a>
 				</div>
 				<div>
-					<a class="btn btn-success btn-rounded mr-3" href="{{url('login')}}/">Demo</a>
-					<a class="btn btn-warning btn-rounded" href="https://arthemicofficial.github.io/Radmin-Laravel-Admin-Starter-Kit/">Documentation</a>
+					<a class="btn btn-success btn-rounded mr-3" href="{{url('login')}}/">Login</a>
+					<a class="btn btn-warning btn-rounded" href="{{url('register')}}/">Sign-Up</a>
 				</div>
 			</div>
 	    	<div class="banner-text m-4 d-relative">
